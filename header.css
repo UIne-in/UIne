@@ -35,3 +35,25 @@ header a{
     font-weight: bold;
     cursor: pointer;
 }
+
+@media (min-width: 375px) and (max-width: 768px){
+    header{
+        padding: 10px 20px;
+    }
+    header img{
+        height: 15px;
+    }
+    
+    header a{
+        font-size: 8px;
+    }
+    
+    .right-section{
+        column-gap: 15px
+    }
+    
+    .right-section button{
+        height: 20px;
+        font-size: 8px;
+    }
+}
