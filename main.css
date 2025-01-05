@@ -190,7 +190,8 @@ footer a{
 
 @media (min-width: 320px) and (max-width: 768px){
     .collection-cards{
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
+        margin: 0px 20px;
     }
     section{
         margin: 20px 50px 0px 50px;
@@ -215,7 +216,7 @@ footer a{
 
     .btn{
         font-size: 6px;
-        height: 20px;
+        height: 15px;
     }
 
     section h1{
@@ -224,5 +225,18 @@ footer a{
     
     section p{
         font-size: 8px;
+    }
+
+    .card{
+        padding: 10px;
+    }
+    .card p{
+        color: white;
+        font-size: 10px;
+    }
+    .info button{
+        font-size: 8px;
+        height: 15px;
+        padding: 3px 8px 3px 8px;
     }
 }
