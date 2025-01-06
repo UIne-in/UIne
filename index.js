@@ -1,4 +1,4 @@
-import {Channel, Development, Tools, Typography, Inspration, Technologies, Categories} from "./data.js";
+import {Channel, Development, Tools, Typography, Inspiration, Technologies, Categories} from "./data.js";
 
 let categories = "";
 Categories.forEach((category, index) => {
@@ -24,8 +24,8 @@ buttons.forEach((button) => {
             DisplayCard(Development);
         }else if(button.innerHTML === "Typography"){
             DisplayCard(Typography);
-        }else if(button.innerHTML === "Inspration"){
-            DisplayCard(Inspration);
+        }else if(button.innerHTML === "Inspiration"){
+            DisplayCard(Inspiration);
         }else if(button.innerHTML === "Technologies"){
             DisplayCard(Technologies);
         }
