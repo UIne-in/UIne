@@ -13,7 +13,7 @@ export const Categories = [
         categoryname:"Typography"
     },
     {
-        categoryname:"Inspration"
+        categoryname:"Inspiration"
     },
     {
         categoryname:"Technologies"
@@ -259,41 +259,41 @@ export const Typography = [
     },
 ]
 
-export const Inspration = [
+export const Inspiration = [
     
     {
         id: 1,
         channelimg:"./images/awwwards.png",
         channelname:"Awwwards",
-        tag:"Inspration",
+        tag:"Inspiration",
         link:"https://www.awwwards.com/"
     },
     {
         id: 2,
         channelimg:"./images/darkmodedesign.png",
         channelname:"Dark Mode",
-        tag:"Inspration",
+        tag:"Inspiration",
         link:"https://www.darkmodedesign.com/"
     },
     {
         id: 3,
         channelimg:"./images/minimalgallery.png",
         channelname:"Minimal Gallery",
-        tag:"Inspration",
+        tag:"Inspiration",
         link:"https://minimal.gallery/"
     },
     {
         id: 4,
         channelimg:"./images/mobbin.jpg",
         channelname:"Mobbin",
-        tag:"Inspration",
+        tag:"Inspiration",
         link:"https://mobbin.com/browse/web/apps"
     },
     {
         id: 5,
         channelimg:"./images/stacksorted.png",
         channelname:"Stack Sorted",
-        tag:"CSS Inspration",
+        tag:"CSS Insipration",
         link:"https://stacksorted.com/buttons"
     },
 ]
