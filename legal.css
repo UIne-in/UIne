@@ -10,3 +10,10 @@ div{
     align-items: center;
     margin: 300px;
 }
+
+@media (min-width: 320px) and (max-width: 768px){
+    div{
+        font-size: 10px;
+        margin: 250px 50px;
+    }
+}
