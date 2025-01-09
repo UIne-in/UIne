@@ -25,84 +25,91 @@ export const Channel = [
         id: 1,
         channelimg:"./images/arnauros.jpg",
         channelname:"Arnau Ros",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@ArnauRos"
     },
     {
         id: 2,
         channelimg:"./images/connerardman.jpg",
         channelname:"Conner Ardman",
-        tag:"YT Channel",
+        tag:"Channel",
         link: "https://www.youtube.com/@ConnerArdman"
     },
     {
         id: 3,
         channelimg:"./images/davegray.jpg",
         channelname:"Dave Gray",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@DaveGrayTeachesCode"
     },
     {
         id: 4,
         channelimg:"./images/designcourse.jpg",
         channelname:"DesignCourse",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@DesignCourse"
     },
     {
         id: 5,
         channelimg:"./images/fireship.jpg",
         channelname:"Fireship",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@fireship"
     },
     {
         id: 6,
         channelimg:"./images/fluxacademy.jpg",
         channelname:"Flux Academy",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@fluxacademy"
     },
     {
         id: 7,
         channelimg:"./images/futurefullstack.jpg",
         channelname:"Future Fullstack",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@futurefullstack"
     },
     {
         id: 8,
         channelimg:"./images/icons8.jpg",
         channelname:"Icons8",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@icons8"
     },
     {
         id: 9,
         channelimg:"./images/jesseshowalter.jpg",
         channelname:"Jesse Showalter",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@jesseshowalter"
     },
     {
         id: 10,
         channelimg:"./images/juxtopposed.jpg",
         channelname:"Juxtopposed",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@juxtopposed"
     },
     {
         id: 11,
         channelimg:"./images/leanderangst.jpg",
         channelname:"Leander Angst",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@leanderangst"
     },
     {
         id: 12,
+        channelimg:"./images/netninja.jpg",
+        channelname:"Net Ninja",
+        tag:"Channel",
+        link:"https://www.youtube.com/@NetNinja/"
+    },
+    {
+        id: 13,
         channelimg:"./images/supersimpledev.jpg",
         channelname:"SuperSimpleDev",
-        tag:"YT Channel",
+        tag:"Channel",
         link:"https://www.youtube.com/@supersimpledev"
     },
 
