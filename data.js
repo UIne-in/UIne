@@ -13,7 +13,7 @@ export const Categories = [
         categoryname:"Typography"
     },
     {
-        categoryname:"Inspiration"
+        categoryname:"Inspration"
     },
     {
         categoryname:"Technologies"
@@ -25,35 +25,35 @@ export const Channel = [
         id: 1,
         channelimg:"./images/arnauros.jpg",
         channelname:"Arnau Ros",
-        tag:"Channel",
+        tag:"YT Channel",
         link:"https://www.youtube.com/@ArnauRos"
     },
     {
         id: 2,
         channelimg:"./images/connerardman.jpg",
         channelname:"Conner Ardman",
-        tag:"Channel",
+        tag:"YT Channel",
         link: "https://www.youtube.com/@ConnerArdman"
     },
     {
         id: 3,
         channelimg:"./images/davegray.jpg",
         channelname:"Dave Gray",
-        tag:"Channel",
+        tag:"YT Channel",
         link:"https://www.youtube.com/@DaveGrayTeachesCode"
     },
     {
         id: 4,
         channelimg:"./images/designcourse.jpg",
         channelname:"DesignCourse",
-        tag:"Channel",
+        tag:"YT Channel",
         link:"https://www.youtube.com/@DesignCourse"
     },
     {
         id: 5,
         channelimg:"./images/fireship.jpg",
         channelname:"Fireship",
-        tag:"Channel",
+        tag:"YT Channel",
         link:"https://www.youtube.com/@fireship"
     },
     {
@@ -119,6 +119,7 @@ export const Channel = [
         tag:"Channel",
         link:"https://www.youtube.com/@supersimpledev"
     },
+
 
 ]
 
@@ -273,41 +274,41 @@ export const Typography = [
     },
 ]
 
-export const Inspiration = [
+export const Inspration = [
     
     {
         id: 1,
         channelimg:"./images/awwwards.png",
         channelname:"Awwwards",
-        tag:"Inspiration",
+        tag:"Inspration",
         link:"https://www.awwwards.com/"
     },
     {
         id: 2,
         channelimg:"./images/darkmodedesign.png",
         channelname:"Dark Mode",
-        tag:"Inspiration",
+        tag:"Inspration",
         link:"https://www.darkmodedesign.com/"
     },
     {
         id: 3,
         channelimg:"./images/minimalgallery.png",
         channelname:"Minimal Gallery",
-        tag:"Inspiration",
+        tag:"Inspration",
         link:"https://minimal.gallery/"
     },
     {
         id: 4,
         channelimg:"./images/mobbin.jpg",
         channelname:"Mobbin",
-        tag:"Inspiration",
+        tag:"Inspration",
         link:"https://mobbin.com/browse/web/apps"
     },
     {
         id: 5,
         channelimg:"./images/stacksorted.png",
         channelname:"Stack Sorted",
-        tag:"CSS Insipration",
+        tag:"CSS Inspration",
         link:"https://stacksorted.com/buttons"
     },
 ]
