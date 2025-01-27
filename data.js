@@ -58,7 +58,7 @@ export const Channel = [
     },
     {
         id: 6
-        channelimg:"./images/fireship.jpg",
+        channelimg:"./images/frankslaboratory.jpg",
         channelname:"Franks laboratory",
         tag:"Channel",
         link:"https://www.youtube.com/c/Frankslaboratory"
