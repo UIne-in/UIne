@@ -57,56 +57,63 @@ export const Channel = [
         link:"https://www.youtube.com/@fireship"
     },
     {
-        id: 6,
+        id: 6
+        channelimg:"./images/fireship.jpg",
+        channelname:"Franks laboratory",
+        tag:"Channel",
+        link:"https://www.youtube.com/c/Frankslaboratory"
+    },
+    {
+        id: 7,
         channelimg:"./images/fluxacademy.jpg",
         channelname:"Flux Academy",
         tag:"Channel",
         link:"https://www.youtube.com/@fluxacademy"
     },
     {
-        id: 7,
+        id: 8,
         channelimg:"./images/futurefullstack.jpg",
         channelname:"Future Fullstack",
         tag:"Channel",
         link:"https://www.youtube.com/@futurefullstack"
     },
     {
-        id: 8,
+        id: 9,
         channelimg:"./images/icons8.jpg",
         channelname:"Icons8",
         tag:"Channel",
         link:"https://www.youtube.com/@icons8"
     },
     {
-        id: 9,
+        id: 10,
         channelimg:"./images/jesseshowalter.jpg",
         channelname:"Jesse Showalter",
         tag:"Channel",
         link:"https://www.youtube.com/@jesseshowalter"
     },
     {
-        id: 10,
+        id: 11,
         channelimg:"./images/juxtopposed.jpg",
         channelname:"Juxtopposed",
         tag:"Channel",
         link:"https://www.youtube.com/@juxtopposed"
     },
     {
-        id: 11,
+        id: 12,
         channelimg:"./images/leanderangst.jpg",
         channelname:"Leander Angst",
         tag:"Channel",
         link:"https://www.youtube.com/@leanderangst"
     },
     {
-        id: 12,
+        id: 13,
         channelimg:"./images/netninja.jpg",
         channelname:"Net Ninja",
         tag:"Channel",
         link:"https://www.youtube.com/@NetNinja/"
     },
     {
-        id: 13,
+        id: 14,
         channelimg:"./images/supersimpledev.jpg",
         channelname:"SuperSimpleDev",
         tag:"Channel",
