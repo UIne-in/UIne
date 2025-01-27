@@ -274,7 +274,7 @@ export const Typography = [
     },
 ]
 
-export const Inspration = [
+export const Inspiration = [
     
     {
         id: 1,
